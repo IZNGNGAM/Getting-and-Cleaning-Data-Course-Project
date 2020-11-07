@@ -10,5 +10,5 @@ The R script used for the project. It first retrieves and combines the training 
 -'average_id&activity.txt'
 Summarized data set group by subject and activity from run_analysis.R.
 
--'Code_book.md'
+-'Code_book.txt'
 An updated code book describing the details of the variables, including names and units, as well as the original source of the data set. 
